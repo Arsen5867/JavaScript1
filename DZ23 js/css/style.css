@@ -1,0 +1,55 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    width: 100%;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.h1{
+    text-align: center;
+    color:rgb(0, 255, 55); 
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+#generally{
+    font-size: 30px;
+    padding: 2% 0;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.featured{
+    text-align: center;
+    border: 10px dotted #FDD201;
+    padding: 30px
+}
+
+p,ul,button{
+    padding: 10px 20px;
+}
+

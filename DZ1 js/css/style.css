@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.weatherMinsk,
+.pageStyle,
+.Delete {
+    background-color: rgb(255, 5, 5);
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+#div{
+    display: flex;
+    justify-content: center;
+}
